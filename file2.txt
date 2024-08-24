@@ -1,1 +1,1 @@
-This is file 2 written using vim editor
+This is file 2 written using vim editor. Changes are made now. Changes after first commit.
